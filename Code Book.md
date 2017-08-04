@@ -4,8 +4,9 @@ This code book indicates all the variables in the “tidy_data.txt” file, outp
 
 
 ### Subject and Activity
- [68] “SubjectId” - The ID of the 30 subjects who performed the test.
- [67] “Activity” - The type of activity performed by the subjects.
+[68] “SubjectId” - The ID of the 30 subjects who performed the test.
+
+[67] “Activity” - The type of activity performed by the subjects.
 
 
 ### Measurements
