@@ -1,11 +1,14 @@
 # Code Book
-This code book indicates all the variables in the “tidy_data.txt” file, output of the step 5 of the script.
 
-# Subject and Activity
+This code book indicates all the variables in the “tidy_data.txt” file, output of  step 5 of the R script.
+
+
+### Subject and Activity
  [68] “SubjectId” - The ID of the 30 subjects who performed the test.
  [67] “Activity” - The type of activity performed by the subjects.
 
-# Measurements
+
+### Measurements
  [1] "Time Body Accelerometer - Mean()-X"                
  [2] "Time Body Accelerometer - Mean()-Y"                
  [3] "Time Body Accelerometer - Mean()-Z"                
@@ -73,7 +76,8 @@ This code book indicates all the variables in the “tidy_data.txt” file, outp
 [65] "Frequency Body Gyroscope Jerk Magnitude - Mean()"    
 [66] "Frequency Body Gyroscope Jerk Magnitude - Std()"
 
-# Activity Labels
+
+### Activity Labels
 	•	WALKING (activity: 1): subject was walking during the test
 	•	WALKING_UPSTAIRS (activity: 2): subject was walking up a staircase during the test
 	•	WALKING_DOWNSTAIRS (activity: 3): subject was walking down a staircase during the test
