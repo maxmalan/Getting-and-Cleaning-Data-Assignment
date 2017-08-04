@@ -1,6 +1,6 @@
 # Code Book
 
-This code book indicates all the variables in the “tidy_data.txt” file, output of  step 5 of the R script.
+This code book indicates all the variables in the “tidy_data.txt” file, output of step 5 of the R script.
 
 
 ### Subject and Activity
